@@ -1,9 +1,9 @@
 ﻿<!-- Look at these-->
 # Arabic Letters Reshape
 ---
-<!--![](./unimain/assets/img/mym2024.png)-->
+<!--![](unimain/assets/img)-->
 
-<img src="./unimain/assets/img" alt="Logo" width="300" style="display: block; margin: auto;" />
+<img src="unimain/assets/img/MYM2024.png" alt="Logo" width="300" style="display: block; margin: auto;" />
 
 
 <!--<div>
