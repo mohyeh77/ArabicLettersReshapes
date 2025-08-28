@@ -4,7 +4,7 @@
 <!--![](./assets/img/mym2024.png)-->
 
 ![](unimain/assets/img/mym2024.png)
-<img src="./unimain/assets/img/mym2024.png" alt="Logo" width="300" style="display: block; margin: auto;" />
+<img src="unimain/assets/img/mym2024.png" alt="Logo" width="300" style="display: block; margin: auto;" />
 
 
 <!--<div>
