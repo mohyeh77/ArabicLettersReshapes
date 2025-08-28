@@ -32,8 +32,13 @@ Let’s consider a practical example:
 Basic characters: م ح م د  <br> 
 Contextual forms: مـ - حـ - مـ - د  <br> 
 </span><br>
+
+## Some Glyphs of Arabic letters
 ![letters](assets/img/fig1a.gif)
+
 ![letters2](assets/img/fig1d.gif)
+
+![letters2](assets/img/fig7c.gif)
 
 ## The Challenge
 To address the complexity of rendering Arabic script correctly, we rely on the Unicode standard—a unified coding system that assigns a unique identifier to each letter form (glyph). This allows for precise manipulation and display of Arabic text across digital platforms.
@@ -41,7 +46,7 @@ To address the complexity of rendering Arabic script correctly, we rely on the U
 ## The Solution
 I’ve developed a software library that automatically converts basic Arabic characters into their correct Unicode representations, based on their position within a word. This enables developers to render Arabic text either as visually connected script or as a sequence of Unicode values suitable for programming purposes.
 ## Usage
-The code is free to use and continuously updated. While it’s open-source, credit is due to its original author.  
+The source code is free to use and continuously updated. While it’s open-source, credit is due to its original author.  
 And if I may ask—remember me in your prayers. May God envelop us in His infinite mercy.
 
 ---
@@ -49,3 +54,4 @@ And if I may ask—remember me in your prayers. May God envelop us in His infini
 # Coming Soon
 - A GUI application for easy text conversion.
 - A Ligature converter for standard ligatures.
+- Full Arabic Font Development Project.
