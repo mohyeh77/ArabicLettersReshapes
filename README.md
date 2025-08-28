@@ -34,11 +34,11 @@ Contextual forms: مـ - حـ - مـ - د  <br>
 </span><br>
 
 ## Some Glyphs of Arabic letters
-![letters](assets/img/fig1a.gif)
+![letters](unimain/assets/img/fig1a.gif)
 
-![letters2](assets/img/fig1d.gif)
+![letters2](unimain/assets/img/fig1d.gif)
 
-![letters2](assets/img/fig7c.gif)
+![letters2](unimain/assets/img/fig7c.gif)
 
 ## The Challenge
 To address the complexity of rendering Arabic script correctly, we rely on the Unicode standard—a unified coding system that assigns a unique identifier to each letter form (glyph). This allows for precise manipulation and display of Arabic text across digital platforms.
