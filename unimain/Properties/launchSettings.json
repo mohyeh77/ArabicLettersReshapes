@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "unimain": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
