@@ -29,9 +29,11 @@ Let’s consider a practical example:
 
 <span style="font-size: 1.2em; font-weight: bold;">
 **The word “Muhammad”**  <br>
-Basic characters: م ح م د  <br>
-Contextual forms: مـ - حـ - مـ - د  <br>
+Basic characters: م ح م د  <br> 
+Contextual forms: مـ - حـ - مـ - د  <br> 
 </span><br>
+![letters](assets/img/fig1a.gif)
+![letters2](assets/img/fig1d.gif)
 
 ## The Challenge
 To address the complexity of rendering Arabic script correctly, we rely on the Unicode standard—a unified coding system that assigns a unique identifier to each letter form (glyph). This allows for precise manipulation and display of Arabic text across digital platforms.
