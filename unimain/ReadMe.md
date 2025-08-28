@@ -5,7 +5,7 @@
 
 <!--https://github.com/mohyeh77/ArabicLettersReshapes/blob/master/unimain/assets/img/MYM2024.png-->
 <!--![this logo](assets/img/MYM2024.png)-->
-<img src="assets/img/MYM2024.png" alt="Logo" width="400" height="600" style="display: block; margin: auto;" />
+#.<img src="assets/img/MYM2024.png" alt="Logo" width="400" height="400" style="display: block; margin: auto;" />
 
 
 <!--<div>
